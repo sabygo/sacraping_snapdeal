@@ -1,0 +1,1 @@
+This is scrapy code that exctract Image from snapdeal
